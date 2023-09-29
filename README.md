@@ -1,38 +1,39 @@
 # EECE Brand
 
-
 ## Logos
 
 **Logo Only**
 
-![EECE Logo Colored](/logos/logo/EECE_Logo_colored.svg "EECE Logo Colored")
-![EECE Logo Black](/logos/logo/EECE_Logo_black.svg "EECE Logo Black")
-![EECE Logo White](/logos/logo/EECE_Logo_white.svg "EECE Logo White")
+<div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
+  <img src="/logos/logo/EECE_Logo_colored.svg" alt="EECE Logo Colored" width="500">
+  <img src="/logos/logo/EECE_Logo_black.svg" alt="EECE Logo Black" width="500">
+  <img src="/logos/logo/EECE_Logo_white.svg" alt="EECE Logo White" width="500">
+</div>
 
 [View More](/logos/logo)
 
 **Logo with Subtitle**
 
-![EECE Logo Colored Subtitled](/logos/full_logo/EECE_Full_Logo_colored.svg "EECE Logo Colored Subtitled")
-![EECE Logo Black Subtitled](/logos/full_logo/EECE_Full_Logo_black.svg "EECE Logo Black Subtitled")
-![EECE Logo White Subtitled](/logos/full_logo/EECE_Full_Logo_white.svg "EECE Logo White Subtitled")
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <img src="/logos/full_logo/EECE_Full_Logo_colored.svg" alt="EECE Logo Colored Subtitled" width="500">
+  <img src="/logos/full_logo/EECE_Full_Logo_black.svg" alt="EECE Logo Black Subtitled" width="500">
+  <img src="/logos/full_logo/EECE_Full_Logo_white.svg" alt="EECE Logo White Subtitled" width="500">
+</div>
 
 [View More](/logos/full_logo)
 
-
 ## Icons
 
-![EECE Icon Colored](/icons/EECE_Icon_colored.svg "EECE Icon Colored")
-![EECE Icon Black](/icons/EECE_Icon_black.svg "EECE Icon Black")
-![EECE Icon Pride](/icons/EECE_Icon_pride.svg "EECE Icon Pride")
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <img src="/icons/EECE_Icon_colored.svg" alt="EECE Icon Colored" width="220">
+  <img src="/icons/EECE_Icon_black.svg" alt="EECE Icon Black" width="220">
+ <img src="/icons/EECE_Icon_white.svg" alt="EECE Icon White" width="220">
+  <img src="/icons/EECE_Icon_pride.svg" alt="EECE Icon Pride" width="220">
+</div>
 
 [View More](/icons)
 
-
-
 ## Color Palettes
 
-### Branding
-
 EECE Red   
- `#ec1f28`
+![EECE Red](https://via.placeholder.com/20/ec1f28/ec1f28) `#ec1f28`
